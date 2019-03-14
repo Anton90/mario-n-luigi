@@ -1,0 +1,37 @@
+/* BASIC STYLING */
+
+html, body { 
+	background-color: white; 
+	} 
+	
+h2 {
+    font-family: 'Cabin Sketch', cursive;
+    }
+
+h3 {
+    font-family: 'Catamaran', sans-serif;
+    color: #be4729;
+    }
+
+p {
+    font-family: 'Catamaran', sans-serif;
+    }
+    
+
+/* BLOCKS */
+
+.container {
+	background-color: #ffffff;
+}
+
+.row {
+	background-color: #ffffff;
+}
+
+.img-left {
+	max-width: 100%;
+	height: auto;
+}
+
+    
+
